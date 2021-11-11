@@ -239,7 +239,6 @@ main{
     background-image: url(images/bg-pattern-how-we-work-desktop.svg);
     background-position: right;
     background-repeat: no-repeat;
-    margin-bottom: 40px;
 }
 .button-container{
     justify-content: center;
