@@ -157,6 +157,9 @@ nav .logo{
         text-transform: uppercase;
         font-weight: bold;
     }
+    .middle-container small{
+        text-align: left;
+}
 }
 /* Main Section */
 main{
