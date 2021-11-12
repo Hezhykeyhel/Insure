@@ -211,6 +211,7 @@ main{
 }
 .middle-content small{
     font-size: 16px;
+    text-align: left;
 }
 .second-container img{
     margin: 20px;
